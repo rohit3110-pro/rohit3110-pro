@@ -25,7 +25,7 @@ I’m deeply passionate about software development, scalable architectures, clou
 
 ## 📂 Notable Projects
 
-### 🔷 [Distributed-Graph-Stream-Summarization-Using-Multi-dimensional-Hash-Functions](https://github.com/rohit3110-pro/Distributed-Graph-Stream-Summarization-Using-PR-Sketch-on-Apache-Spark)
+### 🔷 [Graph-Stream-Summarization-Using-Multi-dimensional-Hash-Functions](https://github.com/rohit3110-pro/Distributed-Graph-Stream-Summarization-Using-PR-Sketch-on-Apache-Spark)
 A scalable system that summarizes high-velocity graph streams using Pattern and Rank Sketch, integrated with Apache Spark for real-time performance.
 
 ### 🧠 [AI-Driven Adaptive Assessment System using RAG for Educational Evaluation](https://github.com/rohit3110-pro/AI-Driven-Adaptive-Assessment-System-Using-RAG-for-Educational-Evaluation)
